@@ -1,1 +1,3 @@
 # STOCK-MARKET-ANALYSIS-USING-PYTHON-PANDAS
+
+The aim of the project was to extract information about Tata Steel stock into the csv file from Google Finances and to visualise different aspects of the stock, like adjusted closing prices, volumes of stocks traded on a particular day, moving averages of the closing price, to get a basic idea of which way the price is moving by cutting down on noise from the data and the daily returns on the stocks. Bar graph plots were created for the business month's end; Pie charts were plotted for the month's end data; Line charts were plotted for weekly data; and finally, a graph for daily frequency Thus, this data helped in visualising the past 100 days of data, which helps us understand the flow of this stock.
